@@ -32,7 +32,7 @@ void ledDASH() {
 	digitalWrite(MY_LED, HIGH);
     
     
-    delay(200);
+    delay(700);
     
     digitalWrite(MY_LED, LOW);
 
